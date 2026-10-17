@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/Monisha-94/Leetcode-/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/Monisha-94/Leetcode-/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/Monisha-94/Leetcode-/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Monisha-94/Leetcode-/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Monisha-94/Leetcode-/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Monisha-94/Leetcode-/tree/master/0283-move-zeroes) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Monisha-94/Leetcode-/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Monisha-94/Leetcode-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Monisha-94/Leetcode-/tree/master/0242-valid-anagram) |
 ## Prefix Sum
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/Monisha-94/Leetcode-/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Monisha-94/Leetcode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/Monisha-94/Leetcode-/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/Monisha-94/Leetcode-/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Monisha-94/Leetcode-/tree/master/0344-reverse-string) |
 ## String
@@ -107,4 +110,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Monisha-94/Leetcode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Monisha-94/Leetcode-/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Monisha-94/Leetcode-/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
