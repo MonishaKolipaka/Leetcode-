@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Monisha-94/Leetcode-/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Monisha-94/Leetcode-/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Monisha-94/Leetcode-/tree/master/0217-contains-duplicate) |
+| [0274-h-index](https://github.com/Monisha-94/Leetcode-/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Monisha-94/Leetcode-/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/Monisha-94/Leetcode-/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Monisha-94/Leetcode-/tree/master/1480-running-sum-of-1d-array) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Monisha-94/Leetcode-/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Monisha-94/Leetcode-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Monisha-94/Leetcode-/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/Monisha-94/Leetcode-/tree/master/0274-h-index) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -124,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Monisha-94/Leetcode-/tree/master/0128-longest-consecutive-sequence) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Monisha-94/Leetcode-/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
