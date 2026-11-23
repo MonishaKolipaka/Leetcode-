@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Monisha-94/Leetcode-/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Monisha-94/Leetcode-/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/Monisha-94/Leetcode-/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/Monisha-94/Leetcode-/tree/master/0441-arranging-coins) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Monisha-94/Leetcode-/tree/master/0136-single-number) |
+| [0222-count-complete-tree-nodes](https://github.com/Monisha-94/Leetcode-/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Monisha-94/Leetcode-/tree/master/0268-missing-number) |
 ## Matrix
 |  |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Monisha-94/Leetcode-/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Monisha-94/Leetcode-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Monisha-94/Leetcode-/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Monisha-94/Leetcode-/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Monisha-94/Leetcode-/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Monisha-94/Leetcode-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Monisha-94/Leetcode-/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Monisha-94/Leetcode-/tree/master/0222-count-complete-tree-nodes) |
 ## Stack
 |  |
 | ------- |
